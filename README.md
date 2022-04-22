@@ -1,4 +1,4 @@
-# hull-feet
+# Cat tongues - feet for [the hull](https://trashman.wiki/en/cases/hull)
 Printed feet to give the Hull a typing angle. Made at the request and idea from the great gggggggggg.
 
 **These will probably be available for purchase at Kiserdesigns at one point in time. For the EU I can print and send them to you.**
