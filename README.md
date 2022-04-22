@@ -1,10 +1,15 @@
 # hull-feet
 Printed feet to give the Hull a typing angle
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## Version 1 - Three part design (TPU and PLA)
 <img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20feet.PNG?raw=true" alt="header" width="800"/>
 <img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20feet%20cut.png?raw=true" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/IMG_7239.jpg" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/IMG_7240.jpg" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/IMG_7241.jpg" alt="header" width="800"/>
+
 
 Printed from TPU and PLA without supports. 
 Print the small round feet from PLA, the big part vom 98A TPU. Then it nicely clips into each other. Glue the small parts into the hull with doublesided tape.
