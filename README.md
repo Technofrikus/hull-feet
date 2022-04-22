@@ -21,7 +21,7 @@ Available with and without space for additional glue feet (6mm). Because the nor
 
 ---
 
-## Version 2 - One part design (PLA)
+## Version 2 - One part design for cork feet (PLA)
 Printed from PLA with supports. Because of the support one side doesnt look as nice, but this side is not visible so its ok. Glue to the board with some doublesided tape. Put the original cork feet on these.
 
 <img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20cork.png" alt="header" width="800"/>
