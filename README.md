@@ -1,5 +1,6 @@
 # hull-feet
-Printed feet to give the Hull a typing angle
+Printed feet to give the Hull a typing angle. Made for the great gggggggggg.
+These will probably be available for purchase at Kiserdesigns at one point in time. For the EU I can print and send them to you.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
