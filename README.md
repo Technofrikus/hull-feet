@@ -1,31 +1,21 @@
 # hull-feet
 Printed feet to give the Hull a typing angle
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-<img src="https://github.com/Technofrikus/BOP-Case/blob/main/pictures/Bop%20case%206.jpg?raw=true" alt="header" width="800"/>
 
-##Version 1 - Three part design for TPU and PLA
+## Version 1 - Three part design (TPU and PLA)
 <img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20feet.PNG?raw=true" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20feet%20cut.png?raw=true" alt="header" width="800"/>
 
-Printed from TPU and PLA without supports. Print the small round feet from PLA, the big part vom 98A TPU. Then it nicely clips into each other. Glue the small parts into the hull with doublesided tape.
-
-
-
-
-
-
-
-
-
-
-
-
+Printed from TPU and PLA without supports. 
+Print the small round feet from PLA, the big part vom 98A TPU. Then it nicely clips into each other. Glue the small parts into the hull with doublesided tape.
+Available with and without space for additional glue feet (6mm). Because the normal TPU is not very grippy.
 
 
 ---
-### About the BOP
 
-[The BOP](https://github.com/blewis308/BOP-Keyboard) is a 6x20 ortholinear keyboard made by [fruitykeeb](https://www.fruitykeeb.xyz). The GB ran in May 2021. They keyboard itself is made with an FR4-Bottom-Plate and Standoffs. But I wanted a "real" case for it.
+## Version 2 - One part design (PLA)
+Printed from PLA with supports. Because of the support one side doesnt look as nice, but this side is not visible so its ok. Glue to the board with some doublesided tape. Put the original cork feet on these.
 
-This case is designed to be as flat as possible, to reduce height of the keyboard for better typing. The bottom plate and the standoffs have to be removed. Only the top plate and PCB are used.
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20cork.png" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/hull-feet/raw/main/Pictures/Feet%20for%20cork%20cut.png" alt="header" width="800"/>
 
-**Untested Detail:**
